@@ -1,0 +1,4 @@
+- 👋 Olá, eu sou o @Felipe-Cavalca
+- 👀 Tenho interesse em aprender sempre mais na area de programação
+- 🌱 Atualmente estou trabalhando com projetos em PHP
+- 📫 flpsnocvla@gmail.com
