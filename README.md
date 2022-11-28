@@ -24,7 +24,15 @@
 <div> 
   <a href="https://instagram.com/felipe.cavalca" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:flpsnocvla@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
   ![Snake animation](https://github.com/Felipe-Cavalca/Felipe-Cavalca/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
+  
+<div align="center">
+  <br>
+  <p align="centre"><b>Visitas ao perfil</b></p>  
+  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{Felipe-Cavalca}/count.svg" /></p> 
+  <br>
+</div>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=aad100&height=120&section=footer"/>
