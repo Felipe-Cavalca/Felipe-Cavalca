@@ -8,6 +8,7 @@
   <a href="https://github.com/Felipe-Cavalca">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felipe-Cavalca&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipe-Cavalca&layout=compact&langs_count=7&theme=merko"/>
+  <img height="300em" src="https://activity-graph.herokuapp.com/graph?username=Felipe-Cavalca&bg_color=0d1117&color=aad100&line=aad100&point=a23609&area=true&hide_border=true"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Felipe-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
