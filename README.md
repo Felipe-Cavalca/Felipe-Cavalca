@@ -1,4 +1,9 @@
-## Oiii eu sou o Felipe,
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=aad100&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=aad100&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Me+chamo+Felipe+Cavalca;Tenho+20+anos;Sou+Brasileiro;Formado+como+técnico+em+informática;Cursando+analise+e+desenvolvimento+de+sistemas;Bem+Vindo!+:%29)](https://git.io/typing-svg)
+
+  ##
+  
 <div align="center">
   <a href="https://github.com/Felipe-Cavalca">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Felipe-Cavalca&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
