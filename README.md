@@ -11,3 +11,9 @@ Olá! Meu nome é **Felipe Cavalca** e sou programador com formação universit�
 1. **CSS**
 1. **SQL**
 1. **HTML**
+
+
+## Links Uteis
+* [Profile VsCode](Home.code-profile)
+* [Settings VsCode](settingsVsCode.jsonc)
+* [JetBrains Mono](https://www.jetbrains.com/pt-br/lp/mono/)
