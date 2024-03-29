@@ -96,7 +96,7 @@
     "workbench.layoutControl.enabled": false,
     "workbench.layoutControl.type": "menu",
     "workbench.sideBar.location": "left",
-    "workbench.startupEditor": "newUntitledFile",
+    "workbench.startupEditor": "readme",
     "workbench.statusBar.visible": false,
     "workbench.tree.enableStickyScroll": true,
     "workbench.tree.indent": 25,
