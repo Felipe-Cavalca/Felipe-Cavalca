@@ -2,7 +2,14 @@
     // breadcrumbs
     "breadcrumbs.enabled": false,
     // Configurações do editor
+    "diffEditor.codeLens": true,
+    // Configurações de debug
+    "debug.autoExpandLazyVariables": true,
+    "debug.console.closeOnEnd": true,
+    "debug.console.acceptSuggestionOnEnter": "on",
+    // Configurações do editor
     "editor.autoIndent": "advanced",
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
     "editor.codeActionsOnSave": {
         "source.fixAll": "explicit",
         "source.organizeImports": "explicit",
@@ -13,18 +20,29 @@
     "editor.cursorStyle": "line",
     "editor.cursorBlinking": "expand",
     "editor.cursorSmoothCaretAnimation": "on",
+    "editor.definitionLinkOpensInPeek": true,
+    "editor.defaultColorDecorators": true,
     "editor.folding": true,
+    "editor.foldingHighlight": false,
     "editor.fontFamily": "JetBrains Mono",
     "editor.fontLigatures": true,
-    "editor.fontSize": 14,
+    "editor.fontSize": 12,
     "editor.formatOnPaste": true,
-    "editor.formatOnSave": true,
+    "editor.formatOnSave": false,
     "editor.formatOnSaveMode": "modificationsIfAvailable",
     "editor.formatOnType": true,
     "editor.glyphMargin": true,
-    "editor.lineHeight": 1.9,
+    "editor.guides.bracketPairsHorizontal": false,
+    "editor.guides.highlightActiveIndentation": "always",
+    "editor.guides.indentation": false,
+    "editor.letterSpacing": 1,
+    "editor.lineHeight": 2,
+    "editor.linkedEditing": true,
+    "editor.matchBrackets": "near",
     "editor.minimap.autohide": false,
     "editor.minimap.enabled": false,
+    "editor.smoothScrolling": true,
+    "editor.unfoldOnClickAfterEndOfLine": true,
     "editor.renderLineHighlight": "gutter",
     "editor.renderWhitespace": "trailing",
     "editor.rulers": [
@@ -44,6 +62,8 @@
     "editor.semanticHighlighting.enabled": false,
     "editor.stickyScroll.enabled": false,
     "editor.tabSize": 4,
+    "editor.wordWrap": "wordWrapColumn",
+    "editor.wordWrapColumn": 120,
     // Configurações do explorador de arquivos
     "explorer.compactFolders": false,
     "explorer.fileNesting.enabled": true,
@@ -53,7 +73,8 @@
         "*.ts": "${capture}.js",
         "*.tsx": "${capture}.ts",
         "package.json": "package-lock.json, yarn.lock, pnpm-lock.yaml",
-        "tsconfig.json": "tsconfig.*.json"
+        "tsconfig.json": "tsconfig.*.json",
+        "composer.json": "composer.lock"
     },
     // Configurações de arquivos
     "files.autoSave": "onFocusChange",
@@ -78,38 +99,62 @@
     "git.confirmSync": false,
     "git.enableCommitSigning": false,
     "git.enableSmartCommit": true,
+    "git.replaceTagsWhenPull": true,
+    // Configurações do sistema de controle de versão
+    "scm.defaultViewMode": "tree",
+    // Configurações da pesquisa
+    "search.defaultViewMode": "tree",
     // Configurações do terminal
+    "terminal.integrated.allowedLinkSchemes": [
+        "file",
+        "http",
+        "https",
+        "mailto",
+        "vscode",
+        "vscode-insiders",
+        "docker-desktop"
+    ],
     "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
     "terminal.integrated.fontSize": 14,
-    // Configuração da janela
+    "terminal.integrated.fontWeight": "normal",
+    // Configurações da janela
     "window.commandCenter": false,
     "window.title": "${dirty}${rootName}${separator}${activeEditorShort}",
     // Configurações do workbench
     "workbench.activityBar.iconClickBehavior": "focus",
     "workbench.activityBar.location": "top",
-    "workbench.colorTheme": "Min Dark",
+    "workbench.colorTheme": "GitHub Dark Default",
     "workbench.editor.editorActionsLocation": "titleBar",
     "workbench.editor.labelFormat": "short",
     "workbench.editor.showTabs": "multiple",
     "workbench.editor.tabSizing": "shrink",
-    "workbench.iconTheme": "symbols",
-    "workbench.layoutControl.enabled": false,
     "workbench.layoutControl.type": "menu",
+    "workbench.iconTheme": "symbols",
+    "workbench.list.smoothScrolling": true,
     "workbench.sideBar.location": "left",
     "workbench.startupEditor": "readme",
-    "workbench.statusBar.visible": false,
     "workbench.tree.enableStickyScroll": true,
     "workbench.tree.indent": 25,
     "workbench.tree.renderIndentGuides": "none",
+    // configurações do Zen Mode
+    "zenMode.hideLineNumbers": false,
     // Linguagens
     "php.validate.run": "onSave",
-    "php.validate.executablePath": "C:/laragon/bin/php/php-8.1.10-Win32-vs16-x64/php.exe",
     // Extenções
     // Fonted
     "fonted.font": "JetBrains Mono",
     // Github
     "github.copilot.chat.localeOverride": "pt-br",
     "github.copilot.chat.welcomeMessage": "always",
+    "github.copilot.editor.enableAutoCompletions": true,
+    "github.copilot.enable": {
+        "*": true,
+        "plaintext": true,
+        "markdown": true,
+        "scminput": true
+    },
+    // git lens
+    "gitlens.views.tags.files.layout": "tree",
     // Exibição das dicas de parametros do php
     "phpParameterHint.fontSize": 14,
     "phpParameterHint.hintTypeName": 0,
@@ -132,5 +177,6 @@
     "vscord.status.details.text.notInFile": "Não está em arquivo",
     "vscord.status.state.text.debugging": "Debugando {file_name}{file_extension}",
     "vscord.status.state.text.editing": "Trabalhando em {file_name}{file_extension}",
-    "vscord.status.state.text.viewing": "Visualizando {file_name}{file_extension}"
+    "vscord.status.state.text.viewing": "Visualizando {file_name}{file_extension}",
+    // Outras
 }
