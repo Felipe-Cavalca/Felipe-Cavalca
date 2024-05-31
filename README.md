@@ -25,7 +25,7 @@ Olá! Meu nome é **Felipe Cavalca** e sou programador com formação universit�
 
 ## Sponsors / Patrocinadores
 
-- @JoaoSto
+[![JoaoSto](https://avatars.githubusercontent.com/u/68963884?v=4)](https://github.com/JoaoSto)
 
 ## Useful Links / Links Úteis
 
