@@ -32,7 +32,7 @@ Olá! Meu nome é **Felipe Cavalca** e sou programador com formação universit�
     <img src="https://avatars.githubusercontent.com/u/68963884?v=4" width="40" height="40" style="border-radius: 50%;">
 </a>
 
-# Supporters / Apoiadores
+## Supporters / Apoiadores
 
 <a href="https://github.com/profjonhson">
     <img src="https://avatars.githubusercontent.com/u/42740942?v=4" width="40" height="40" style="border-radius: 50%;">
