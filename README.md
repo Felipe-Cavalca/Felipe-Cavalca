@@ -1,9 +1,13 @@
 # Felipe dos Santos Cavalca
 
-## Índice
+## index / Índice
 
-- [Sobre mim (Português)](#sobre-mim-português)
 - [About me (English)](#about-me-english)
+- [Sobre mim (Português)](#sobre-mim-português)
+- [Languages I enjoy the most / Linguagens que mais gosto](#languages-i-enjoy-the-most--linguagens-que-mais-gosto)
+- [Sponsors / Patrocinadores](#sponsors--patrocinadores)
+- [Supporters / Apoiadores](#supporters--apoiadores)
+- [Useful Links / Links Úteis](#useful-links--links-úteis)
 
 ---
 
