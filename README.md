@@ -25,6 +25,9 @@ Olá! Meu nome é **Felipe Cavalca** e sou programador com formação universit�
 
 ## Sponsors / Patrocinadores
 
+<a href="https://github.com/DarlaTorres">
+    <img src="https://avatars.githubusercontent.com/u/66099962?v=4" width="40" height="40" style="border-radius: 50%;">
+</a>
 <a href="https://github.com/JoaoSto">
     <img src="https://avatars.githubusercontent.com/u/68963884?v=4" width="40" height="40" style="border-radius: 50%;">
 </a>
