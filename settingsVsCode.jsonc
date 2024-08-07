@@ -1,10 +1,6 @@
 {
-    // breadcrumbs
     "breadcrumbs.enabled": false,
-    // Configurações do editor
     "diffEditor.codeLens": true,
-    // Configurações de debug
-    "debug.autoExpandLazyVariables": true,
     "debug.console.closeOnEnd": true,
     "debug.console.acceptSuggestionOnEnter": "on",
     // Configurações do editor
@@ -15,8 +11,8 @@
         "source.organizeImports": "explicit",
         "source.fixAll.eslint": "always"
     },
-    "editor.codeLensFontFamily": "JetBrains Mono",
-    "editor.codeLensFontSize": 14,
+    "editor.codeLensFontFamily": "Geist Mono, JetBrains Mono, Fira Code",
+    "editor.codeLensFontSize": 15,
     "editor.cursorStyle": "line",
     "editor.cursorBlinking": "expand",
     "editor.cursorSmoothCaretAnimation": "on",
@@ -24,9 +20,9 @@
     "editor.defaultColorDecorators": true,
     "editor.folding": true,
     "editor.foldingHighlight": false,
-    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontFamily": "Geist Mono, JetBrains Mono, Fira Code",
     "editor.fontLigatures": true,
-    "editor.fontSize": 12,
+    "editor.fontSize": 12.5,
     "editor.formatOnPaste": true,
     "editor.formatOnSave": false,
     "editor.formatOnSaveMode": "modificationsIfAvailable",
@@ -46,14 +42,8 @@
     "editor.renderLineHighlight": "gutter",
     "editor.renderWhitespace": "trailing",
     "editor.rulers": [
-        {
-            "column": 80,
-            "color": "#29293a"
-        },
-        {
-            "column": 120,
-            "color": "#29293a"
-        }
+        80,
+        120
     ],
     "editor.scrollBeyondLastLine": true,
     "editor.scrollbar.horizontal": "hidden",
@@ -63,7 +53,7 @@
     "editor.stickyScroll.enabled": false,
     "editor.tabSize": 4,
     "editor.wordWrap": "wordWrapColumn",
-    "editor.wordWrapColumn": 120,
+    "editor.wordWrapColumn": 150,
     // Configurações do explorador de arquivos
     "explorer.compactFolders": false,
     "explorer.fileNesting.enabled": true,
@@ -102,6 +92,7 @@
     "git.replaceTagsWhenPull": true,
     // Configurações do sistema de controle de versão
     "scm.defaultViewMode": "tree",
+    "scm.showHistoryGraph": false,
     // Configurações da pesquisa
     "search.defaultViewMode": "tree",
     // Configurações do terminal
@@ -114,7 +105,7 @@
         "vscode-insiders",
         "docker-desktop"
     ],
-    "terminal.integrated.fontFamily": "JetBrainsMono Nerd Font",
+    "terminal.integrated.fontFamily": "Geist Mono, JetBrains Mono, Fira Code",
     "terminal.integrated.fontSize": 14,
     "terminal.integrated.fontWeight": "normal",
     // Configurações da janela
@@ -123,7 +114,7 @@
     // Configurações do workbench
     "workbench.activityBar.iconClickBehavior": "focus",
     "workbench.activityBar.location": "top",
-    "workbench.colorTheme": "GitHub Dark Default",
+    "workbench.colorTheme": "Min Dark",
     "workbench.editor.editorActionsLocation": "titleBar",
     "workbench.editor.labelFormat": "short",
     "workbench.editor.showTabs": "multiple",
@@ -132,17 +123,18 @@
     "workbench.iconTheme": "symbols",
     "workbench.list.smoothScrolling": true,
     "workbench.sideBar.location": "left",
+    "workbench.statusBar.visible": false,
     "workbench.startupEditor": "readme",
     "workbench.tree.enableStickyScroll": true,
     "workbench.tree.indent": 25,
-    "workbench.tree.renderIndentGuides": "none",
+    "workbench.tree.renderIndentGuides": "always",
     // configurações do Zen Mode
     "zenMode.hideLineNumbers": false,
     // Linguagens
     "php.validate.run": "onSave",
     // Extenções
     // Fonted
-    "fonted.font": "JetBrains Mono",
+    "fonted.font": "Geist Mono, JetBrains Mono, Fira Code",
     // Github
     "github.copilot.chat.localeOverride": "pt-br",
     "github.copilot.chat.welcomeMessage": "always",
@@ -161,14 +153,14 @@
     "phpParameterHint.onChange": true,
     "phpParameterHint.showDollarSign": true,
     // Power mode
-    "powermode.enabled": true,
+    "powermode.enabled": false,
     "powermode.presets": "flames",
     "powermode.combo.location": "off",
     "powermode.shake.enabled": false,
     // Symbols
     "symbols.files.associations": {},
     "symbols.folders.associations": {},
-    "symbols.hidesExplorerArrows": true,
+    "symbols.hidesExplorerArrows": false,
     // Discord
     "vscord.status.buttons.button1.git.active.label": "Visualizar projeto",
     "vscord.status.details.text.debugging": "No Projeto: {workspace}",
@@ -178,5 +170,11 @@
     "vscord.status.state.text.debugging": "Debugando {file_name}{file_extension}",
     "vscord.status.state.text.editing": "Trabalhando em {file_name}{file_extension}",
     "vscord.status.state.text.viewing": "Visualizando {file_name}{file_extension}",
+    // Custom CSS and JS
+    "vscode_custom_css.imports": [
+        // Caminho para os arquivos de customizações
+        "file:///D:/projetos/Felipe-Cavalca/custom-vscode/custom.css",
+        "file:///D:/projetos/Felipe-Cavalca/custom-vscode/custom.js"
+    ]
     // Outras
 }
