@@ -169,12 +169,6 @@
     "vscord.status.details.text.notInFile": "Não está em arquivo",
     "vscord.status.state.text.debugging": "Debugando {file_name}{file_extension}",
     "vscord.status.state.text.editing": "Trabalhando em {file_name}{file_extension}",
-    "vscord.status.state.text.viewing": "Visualizando {file_name}{file_extension}",
-    // Custom CSS and JS
-    "vscode_custom_css.imports": [
-        // Caminho para os arquivos de customizações
-        "file:///D:/projetos/Felipe-Cavalca/custom-vscode/custom.css",
-        "file:///D:/projetos/Felipe-Cavalca/custom-vscode/custom.js"
-    ]
+    "vscord.status.state.text.viewing": "Visualizando {file_name}{file_extension}"
     // Outras
 }
