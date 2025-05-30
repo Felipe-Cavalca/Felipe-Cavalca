@@ -1,167 +1,45 @@
 {
-    "breadcrumbs.enabled": false,
-    "diffEditor.codeLens": true,
-    "debug.console.closeOnEnd": true,
-    "debug.console.acceptSuggestionOnEnter": "on",
-    // Configurações do editor
-    "editor.autoIndent": "advanced",
-    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
-    "editor.codeActionsOnSave": {
-        "source.fixAll": "explicit",
-        "source.organizeImports": "explicit",
-        "source.fixAll.eslint": "always"
-    },
-    "editor.codeLensFontFamily": "Geist Mono, JetBrains Mono, Fira Code",
-    "editor.codeLensFontSize": 15,
-    "editor.cursorStyle": "line",
+    "codesnap.showWindowTitle": true,
+    "database-client.autoSync": true,
+    "database-client.enableEditorCodeLens": false,
+    "editor.codeLensFontFamily": "JetBrains Mono, Geist Mono, Fira Code",
     "editor.cursorBlinking": "expand",
     "editor.cursorSmoothCaretAnimation": "on",
-    "editor.definitionLinkOpensInPeek": true,
-    "editor.defaultColorDecorators": true,
-    "editor.folding": true,
-    "editor.foldingHighlight": false,
-    "editor.fontFamily": "Geist Mono, JetBrains Mono, Fira Code",
+    "editor.cursorStyle": "line",
+    "editor.fontFamily": "JetBrains Mono, Geist Mono, Fira Code",
     "editor.fontLigatures": true,
-    "editor.fontSize": 12.5,
     "editor.formatOnPaste": true,
     "editor.formatOnSave": false,
     "editor.formatOnSaveMode": "modificationsIfAvailable",
     "editor.formatOnType": true,
-    "editor.glyphMargin": true,
-    "editor.guides.bracketPairsHorizontal": false,
-    "editor.guides.highlightActiveIndentation": "always",
-    "editor.guides.indentation": false,
-    "editor.letterSpacing": 1,
-    "editor.lineHeight": 2,
-    "editor.linkedEditing": true,
-    "editor.matchBrackets": "near",
-    "editor.minimap.autohide": false,
     "editor.minimap.enabled": false,
-    "editor.smoothScrolling": true,
-    "editor.unfoldOnClickAfterEndOfLine": true,
-    "editor.renderLineHighlight": "gutter",
     "editor.renderWhitespace": "trailing",
-    "editor.rulers": [
-        80,
-        120
-    ],
-    "editor.scrollBeyondLastLine": true,
-    "editor.scrollbar.horizontal": "hidden",
-    "editor.scrollbar.scrollByPage": true,
-    "editor.scrollbar.vertical": "auto",
-    "editor.semanticHighlighting.enabled": false,
-    "editor.stickyScroll.enabled": false,
-    "editor.tabSize": 4,
-    "editor.wordWrap": "wordWrapColumn",
-    "editor.wordWrapColumn": 150,
-    // Configurações do explorador de arquivos
+    "editor.smoothScrolling": true,
     "explorer.compactFolders": false,
-    "explorer.fileNesting.enabled": true,
-    "explorer.fileNesting.patterns": {
-        "*.js": "${capture}.js.map, ${capture}.min.js, ${capture}.d.ts",
-        "*.jsx": "${capture}.js",
-        "*.ts": "${capture}.js",
-        "*.tsx": "${capture}.ts",
-        "package.json": "package-lock.json, yarn.lock, pnpm-lock.yaml",
-        "tsconfig.json": "tsconfig.*.json",
-        "composer.json": "composer.lock"
-    },
-    // Configurações de arquivos
     "files.autoSave": "onFocusChange",
-    "files.associations": {
-        "*.env": "env"
-    },
-    "files.exclude": {
-        "**/.vscode": false,
-        "**/.git": false,
-        "**/.github": false,
-        "**/includes": false,
-        "**/.gitignore": false,
-        "**/.DS_Store": false,
-        "**/node_modules": false
-    },
     "files.insertFinalNewline": true,
     "files.trimFinalNewlines": true,
     "files.trimTrailingWhitespace": true,
-    // Git
-    "git.autofetch": "all",
-    "git.autorefresh": true,
+    "git.autofetch": true,
     "git.confirmSync": false,
-    "git.enableCommitSigning": false,
-    "git.enableSmartCommit": true,
-    "git.replaceTagsWhenPull": true,
-    // Configurações do sistema de controle de versão
-    "scm.defaultViewMode": "tree",
-    "scm.showHistoryGraph": false,
-    // Configurações da pesquisa
-    "search.defaultViewMode": "tree",
-    // Configurações do terminal
-    "terminal.integrated.allowedLinkSchemes": [
-        "file",
-        "http",
-        "https",
-        "mailto",
-        "vscode",
-        "vscode-insiders",
-        "docker-desktop"
-    ],
-    "terminal.integrated.fontFamily": "Geist Mono, JetBrains Mono, Fira Code",
-    "terminal.integrated.fontSize": 14,
-    "terminal.integrated.fontWeight": "normal",
-    // Configurações da janela
-    "window.commandCenter": false,
-    "window.title": "${dirty}${rootName}${separator}${activeEditorShort}",
-    // Configurações do workbench
-    "workbench.activityBar.iconClickBehavior": "focus",
-    "workbench.activityBar.location": "top",
-    "workbench.colorTheme": "Min Dark",
-    "workbench.editor.editorActionsLocation": "titleBar",
-    "workbench.editor.labelFormat": "short",
-    "workbench.editor.showTabs": "multiple",
-    "workbench.editor.tabSizing": "shrink",
-    "workbench.layoutControl.type": "menu",
-    "workbench.iconTheme": "symbols",
-    "workbench.list.smoothScrolling": true,
-    "workbench.sideBar.location": "left",
-    "workbench.statusBar.visible": false,
-    "workbench.startupEditor": "readme",
-    "workbench.tree.enableStickyScroll": true,
-    "workbench.tree.indent": 25,
-    "workbench.tree.renderIndentGuides": "always",
-    // configurações do Zen Mode
-    "zenMode.hideLineNumbers": false,
-    // Linguagens
-    "php.validate.run": "onSave",
-    // Extenções
-    // Fonted
-    "fonted.font": "Geist Mono, JetBrains Mono, Fira Code",
-    // Github
-    "github.copilot.chat.localeOverride": "pt-br",
-    "github.copilot.chat.welcomeMessage": "always",
-    "github.copilot.editor.enableAutoCompletions": true,
-    "github.copilot.enable": {
-        "*": true,
-        "plaintext": true,
-        "markdown": true,
-        "scminput": true
+    "gitlens.views.scm.grouped.views": {
+        "commits": true,
+        "branches": false,
+        "remotes": false,
+        "stashes": false,
+        "tags": true,
+        "worktrees": true,
+        "contributors": true,
+        "repositories": false,
+        "searchAndCompare": false,
+        "launchpad": false
     },
-    // git lens
-    "gitlens.views.tags.files.layout": "tree",
-    // Exibição das dicas de parametros do php
-    "phpParameterHint.fontSize": 14,
-    "phpParameterHint.hintTypeName": 0,
-    "phpParameterHint.onChange": true,
-    "phpParameterHint.showDollarSign": true,
-    // Power mode
-    "powermode.enabled": false,
-    "powermode.presets": "flames",
     "powermode.combo.location": "off",
+    "powermode.enabled": true,
+    "powermode.presets": "flames",
     "powermode.shake.enabled": false,
-    // Symbols
-    "symbols.files.associations": {},
-    "symbols.folders.associations": {},
-    "symbols.hidesExplorerArrows": false,
-    // Discord
+    "search.defaultViewMode": "tree",
+    "terminal.integrated.defaultProfile.windows": "Git Bash",
     "vscord.status.buttons.button1.git.active.label": "Visualizar projeto",
     "vscord.status.details.text.debugging": "No Projeto: {workspace}",
     "vscord.status.details.text.editing": "No Projeto: {workspace}",
@@ -169,6 +47,10 @@
     "vscord.status.details.text.notInFile": "Não está em arquivo",
     "vscord.status.state.text.debugging": "Debugando {file_name}{file_extension}",
     "vscord.status.state.text.editing": "Trabalhando em {file_name}{file_extension}",
-    "vscord.status.state.text.viewing": "Visualizando {file_name}{file_extension}"
-    // Outras
+    "vscord.status.state.text.viewing": "Visualizando {file_name}{file_extension}",
+    "window.commandCenter": false,
+    "window.title": "${dirty}${rootName}${separator}${activeEditorShort}",
+    "workbench.activityBar.location": "top",
+    "workbench.colorTheme": "Monokai",
+    "workbench.iconTheme": "material-icon-theme"
 }
