@@ -1,51 +1,51 @@
 # Felipe dos Santos Cavalca
 
-## index / Índice
+## 🔍 Index / Índice
 
-- [About me (English)](#about-me-english)
-- [Sobre mim (Português)](#sobre-mim-português)
-- [Languages I enjoy the most / Linguagens que mais gosto](#languages-i-enjoy-the-most--linguagens-que-mais-gosto)
-- [Sponsors / Patrocinadores](#sponsors--patrocinadores)
-- [Supporters / Apoiadores](#supporters--apoiadores)
-- [Useful Links / Links Úteis](#useful-links--links-úteis)
+* [👤 About me (English)](#about-me-english)
+* [👤 Sobre mim (Português)](#sobre-mim-português)
+* [📚 Languages I enjoy the most / Linguagens que mais gosto](#languages-i-enjoy-the-most--linguagens-que-mais-gosto)
+* [👏 Supporters / Apoiadores](#supporters--apoiadores)
+* [🔗 Useful Links / Links Úteis](#useful-links--links-úteis)
 
 ---
 
-## About me (English)
+## 👤 About me (English)
 
-Hello! My name is **Felipe Cavalca** and I am a university-educated programmer. I have experience in various technologies, including `PHP`, `HTML`, `CSS`, `JavaScript`, and `SQL`. I enjoy programming my own projects, including those related to my work.
+Hello! My name is **Felipe Cavalca**, a university-educated software developer passionate about solving problems through code. I have experience in technologies like `PHP`, `HTML`, `CSS`, `JavaScript`, and `SQL`. I enjoy developing personal and professional projects, constantly learning and improving.
 
-## Sobre mim (Português)
+## 👤 Sobre mim (Português)
 
-Olá! Meu nome é **Felipe Cavalca** e sou programador com formação universitária. Tenho experiência em diversas tecnologias, incluindo `PHP`, `HTML`, `CSS`, `JavaScript` e `SQL`. Gosto de programar meus próprios projetos, incluindo os relacionados ao meu trabalho.
+Olá! Meu nome é **Felipe Cavalca**, sou desenvolvedor com formação universitária e apaixonado por resolver problemas com código. Tenho experiência com tecnologias como `PHP`, `HTML`, `CSS`, `JavaScript` e `SQL`. Gosto de desenvolver projetos pessoais e profissionais, sempre buscando aprender mais.
 
-## Languages I enjoy the most / Linguagens que mais gosto
+## 📚 Languages I enjoy the most / Linguagens que mais gosto
 
-1. **PHP**
-2. **JS**
-3. **CSS**
-4. **SQL**
-5. **HTML**
+* **PHP** - My main backend language, ideal for rapid development
+* **JavaScript** - For dynamic and interactive web applications
+* **CSS** - To create beautiful and responsive designs
+* **SQL** - For managing and querying relational databases
+* **HTML** - The foundation of any web application
 
-## Sponsors / Patrocinadores
+
+## 👏 Supporters / Apoiadores
 
 <a href="https://github.com/DarlaTorres">
-    <img src="https://avatars.githubusercontent.com/u/66099962?v=4" width="40" height="40" style="border-radius: 50%;">
-</a>
-
-## Supporters / Apoiadores
-
+  <img src="https://avatars.githubusercontent.com/u/66099962?v=4" width="40" height="40" style="border-radius: 50%;">
 <a href="https://github.com/profjonhson">
-    <img src="https://avatars.githubusercontent.com/u/42740942?v=4" width="40" height="40" style="border-radius: 50%;">
+  <img src="https://avatars.githubusercontent.com/u/42740942?v=4" width="40" height="40" style="border-radius: 50%;">
 </a>
 <a href="https://github.com/joaocavalca10">
-    <img src="https://avatars.githubusercontent.com/u/85898316?v=4" width="40" height="40" style="border-radius: 50%;">
+  <img src="https://avatars.githubusercontent.com/u/85898316?v=4" width="40" height="40" style="border-radius: 50%;">
+</a>
 </a>
 
-## Useful Links / Links Úteis
+## 🔗 Useful Links / Links Úteis
 
-- [VsCode Profile](Home.code-profile)
-- [VsCode Settings](settingsVsCode.jsonc)
-- [JetBrains Mono](https://www.jetbrains.com/pt-br/lp/mono/)
-- [Custom Components](https://github.com/Felipe-Cavalca/BifrostPHP-Components)
-- [Bifrost PHP](https://github.com/stars/Felipe-Cavalca/lists/bifrostphp)
+* [🔧 VSCode Settings](settingsVsCode.jsonc)
+* [🔬 Bifrost PHP Toolkit](https://github.com/stars/Felipe-Cavalca/lists/bifrostphp)
+
+---
+
+*Thanks for visiting my profile! Feel free to check out my projects or get in touch!*
+
+*Agradeço a visita! Fique à vontade para conhecer meus projetos ou entrar em contato!*
